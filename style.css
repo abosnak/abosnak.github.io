@@ -7,6 +7,7 @@ body {
   background-color: gray;
   font-family: "Nunito Sans", sans-serif;
   background-image: url(images/main-pic.jpg);
+  background-size: cover;
 }
 button {
   background-color: black;
@@ -15,7 +16,7 @@ button {
   height: 50px;
   border: 2px solid;
   border-radius: 25px;
-  margin-left: 200px;
+  margin-left: 8%;
   display: block;
   font-size: medium;
 }
