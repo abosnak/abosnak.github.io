@@ -11,13 +11,18 @@ body {
 button {
   background-color: black;
   color: burlywood;
-  width: 100px;
+  width: 200px;
   height: 50px;
   border: 2px solid;
   border-radius: 25px;
   margin-left: 200px;
   display: block;
+  font-size: medium;
 }
 button:hover {
   background-color: grey;
+  border: 4px solid darkorange;
+}
+a:link {
+  text-decoration: none;
 }
